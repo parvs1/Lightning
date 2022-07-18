@@ -1,0 +1,6 @@
+[submodule "LightningC"]
+	path = LightningC
+	url = https://github.com/parvs1/LightningC.git
+[submodule "PyLightning"]
+	path = PyLightning
+	url = https://github.com/parvs1/PyLightning.git
